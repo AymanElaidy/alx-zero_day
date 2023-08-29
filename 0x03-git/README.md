@@ -1,1 +1,4 @@
-this is to practice git & github
+this is to practice git and github 
+pushing & pulling with hot fixes 
+
+
